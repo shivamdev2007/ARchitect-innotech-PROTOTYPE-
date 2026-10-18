@@ -1170,7 +1170,7 @@ async function sendPrompt(rawText) {
   addMessage("AI is designing your changes...", "assistant-message");
 
   try {
-    const response = await fetch("http://localhost:3001/api/design", {
+  const response = await fetch("/api/design", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
