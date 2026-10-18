@@ -1,4 +1,4 @@
-# 🏡 AIArchitect — Visualize Before You Build
+# 🏡 ARchitect — Visualize Before You Build
 
 **AI-powered architectural visualization for smarter building design.**
 
