@@ -16,7 +16,7 @@ if (!customElements.get("model-viewer")) {
 
 document.querySelector("#app").innerHTML = `
   <header class="navbar">
-    <div class="logo">⌂ <span>AIArchitect</span></div>
+    <div class="logo">⌂ <span>ARchitect</span></div>
     <span class="status">● AI Design Studio</span>
     <button class="new-btn" type="button">+ New Design</button>
   </header>
